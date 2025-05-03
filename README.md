@@ -43,6 +43,9 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hszalai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hszalai" /></a></p><br><br>
+
 ###
 
 <br clear="both">
